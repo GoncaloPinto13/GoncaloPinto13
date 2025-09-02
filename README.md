@@ -1,6 +1,6 @@
 # Welcome, I’m Gonçalo Pinto👋
 
-🎓 **Tecnologias e Programação de Sistemas de Informação** @ Atec
+🎓 **Tecnologias e Programação de Sistemas de Informação** @ Atec 
 🔐 **Interesses**: Software Development • Devops • AI  
 📫 **Contact**: [![Email](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:a104267@outlook.com)  
 
