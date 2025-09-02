@@ -29,10 +29,10 @@
 ---
 
 ## 📊 **GitHub Stats**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andremp33&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalopinto13&layout=compact&theme=radical)  
 
 ---
 
 ### 🔗 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-pinto-95809b378/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andremp33)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/andr%C3%A9-pinto-95809b378/](https://www.linkedin.com/in/gon%C3%A7alopinto13/))  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goncalopinto13)  
