@@ -9,7 +9,6 @@
 ## 🛠️ **Languages & Tools**  
 
 ### Programming  
-![PHP]
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -29,7 +28,7 @@
 ---
 
 ## 📊 **GitHub Stats**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalopinto13&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloPinto13&layout=compact&theme=radical)  
 
 ---
 
