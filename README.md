@@ -1,7 +1,7 @@
-# Welcome, I’m Gonçalo Pinto 👋
+Gonçalo Pinto 
 
-🎓 **Tecnologias e Programação de Sistemas de Informação** @ ATEC  
-🔐 **Interesses**: Software Development • DevOps • AI  
+🎓 **Tecnologias e Programação de Sistemas de Informação** 
+🔐 **Interesses**: Software Development • DevOps  
 📫 **Contact**: goncalopinto13032004@gmail.com  
 
 ---
